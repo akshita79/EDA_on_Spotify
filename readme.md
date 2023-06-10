@@ -1,1 +1,1 @@
-<img align="center", width=400, src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.graphext.com%2Fdocs%2Fwhat-is-exploratory-data-analysis&psig=AOvVaw2-EeCaoibPQhF5NNAKd7yY&ust=1686479908258000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICz3rDBuP8CFQAAAAAdAAAAABAg">
+<img src=“https://editor.analyticsvidhya.com/uploads/24537Zoom-EDA.png”>
