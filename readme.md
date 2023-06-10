@@ -1,1 +1,2 @@
-<img src=“https://editor.analyticsvidhya.com/uploads/24537Zoom-EDA.png”>
+<img src=“https://pianalytix.com/wp-content/uploads/2020/11/Exploratory-Data-Analysis.jpg”>
+
